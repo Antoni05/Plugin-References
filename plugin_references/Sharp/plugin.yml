@@ -1,0 +1,10 @@
+name: SwordGive
+version: 0.0.1
+author: Antoni
+api: 3.0.0
+main: Antoni\commands\sword
+
+commands:
+  sword:
+    desciption: Summon a sword!.
+    permission: op

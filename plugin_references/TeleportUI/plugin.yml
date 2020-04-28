@@ -1,0 +1,9 @@
+name: TeleportUI
+version: 0.0.1
+author: Antoni
+api: 3.0.0
+main: Antoni\TPI\tpi
+
+commands:
+  tpi:
+    description: "A simple punishment plugin"
